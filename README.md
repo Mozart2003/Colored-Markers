@@ -12,7 +12,7 @@ This is a simple HTML and CSS project that displays three colored markers: red, 
 
 - `index.html` – Contains the HTML structure
 - `styles.css` – Contains all the styling for the marker
-- 
+  
 ## Purpose
 
 This project is meant for practicing CSS layout and visual styling using basic HTML and CSS. It’s a great example of how simple elements can be combined to create interesting visuals.
